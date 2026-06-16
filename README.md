@@ -10,12 +10,15 @@
 ## Данные
 
 Объявления листинга с сайта Airbnb, полученные с сайта [Inside Airbnb](https://insideairbnb.com/get-the-data/).
+Сырые скаченные данные можно найти по [ссылке](https://drive.google.com/drive/folders/17G69D58L6CmmAxiQhuJf2Ik0EbQG4hH6?usp=sharing)
 
 ## Структура проекта
 
 Первичную обработку выгруженных с сайта данных производили в ноутбуке:
 
 * `Regression1_Ветров_Александр.ipynb`
+
+После предварительной обработки были получены следующие файлы - [ссылка](https://drive.google.com/drive/folders/1U_EDhYg2KmfAvayf26FFyaoZ_Q72_9W-?usp=drive_link)
 
 На основании первичных данных независимо решали две задачи:
 
